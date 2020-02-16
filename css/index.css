@@ -1,0 +1,40 @@
+/*font-family: 'PT Sans', sans-serif;*/
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.banner{
+	background-image: url(../image/man-in-black-hoodie-holding-fire-774166.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	border:2px solid black;
+}
+.slider{
+	background-color: rgba(1,1,1,.6);
+	color: white;
+	padding: 75px;
+}
+.slider h1{
+	margin-top: 35px;
+	font-size: 28px;
+	margin-bottom: 30px;
+}
+.slider p{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.slider button{
+	margin-bottom: 30px;
+}
+.custom_ind {
+    /*bottom: 0;*/
+}
+.custom_ind li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+	/*background-color: rgba(1,1,1,0.5);*/
+}
+
